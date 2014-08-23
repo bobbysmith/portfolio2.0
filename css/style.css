@@ -139,6 +139,14 @@
 		margin-bottom: 2em;
 	}
 
+	p {
+		color: #FEFEFE;
+	}
+
+	.name {
+		font-size: 5em;
+	}
+
 	.left {
 		text-align: left;
 	}

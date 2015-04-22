@@ -1,5 +1,5 @@
 @charset 'UTF-8';
-@import url('http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,600,600italic,700');
+/*@import url('http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,600,600italic,700');*/
 @import url('font-awesome.min.css');
 
 /*
@@ -14,7 +14,7 @@
 
 	body,input,textarea,select
 	{
-		font-family: 'Open Sans', sans-serif;
+		font-family: 'Helvetica', sans-serif;
 		line-height: 1.85em;
 		color: #888;
 		font-weight: 300;
